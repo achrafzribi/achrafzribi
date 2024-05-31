@@ -5,7 +5,6 @@
 
 [![achrafzribi's GitHub | Stats](https://stats.quine.sh/achrafzribi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=achrafzribi)
 
-[![achrafzribi's GitHub | Languages Over Time](https://stats.quine.sh/achrafzribi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=achrafzribi)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achrafzribi" alt="achrafzribi" /></a> </p>
 
 - 🔭 I’m currently working on [Kids Coin](https://github.com/chebbi4m/pim-flutter)
